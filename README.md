@@ -4,9 +4,9 @@ Siudyzm 1, 2 and 3 ported to Offline Experience
 
 Now it will alive forever and ever.........
 
-Windowser:
+Windowser: https://github.com/angloman-siuda/SIUDYZM-DIRECTOR-S-CUT/releases/download/siudyzm-offline/Siudyzm-Directors-Cut.exe
 
-Linuxing:
+Linuxing: https://github.com/angloman-siuda/SIUDYZM-DIRECTOR-S-CUT/releases/download/siudyzm-offline/Siudyzm-Directors-Cut.AppImage
 
 ---
 ---
